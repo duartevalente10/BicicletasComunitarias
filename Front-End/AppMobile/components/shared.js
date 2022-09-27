@@ -1,0 +1,1 @@
+export const baseAPIUrl = 'https://server-comunity-bikes.herokuapp.com';
