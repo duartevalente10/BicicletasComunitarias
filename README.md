@@ -1,10 +1,10 @@
 # BicicletasComunitarias
-Projeto Final da Licenciatura de Engenharia Informática
-Instituto Politécnico de Tomar 
+Final Project for Bachelor's degree in Computer Engineering 
+Instituto Politecnico de Tomar
 
-Alunos:
+Students:
 João Valido
 Duarte Valente
 
-Coordenador:
+Coordinator:
 Luís Oliveira
